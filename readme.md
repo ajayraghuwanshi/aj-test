@@ -1,1 +1,1 @@
-Please read this file carefull
+Please read this file carefully
